@@ -1,5 +1,5 @@
 ### Check out my github webpage 👋
-# https://MikenTnT.github.io
+# https://mikentnt.github.io
 
 
 <!--
